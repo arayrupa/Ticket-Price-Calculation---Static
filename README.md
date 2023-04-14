@@ -12,6 +12,7 @@ AvailableTickets should hold only positive value. Zero and negative values are n
 Write the following method in the Ticket class:
 public int calculateTicketCost(int nooftickets) —this method should check the ticket availability, If the tickets are available, reduce the nooftickets from availableTickets and calculate the total amount as nooftickets*price  and return the total amount.  If the tickets are not available, this method should return -1.
 Write a main method in the Main class to test the application.
+
 Sample input and output
 Enter no of bookings: 2
 Enter the available tickets: 25
