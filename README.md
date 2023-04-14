@@ -30,4 +30,3 @@ Enter the no of tickets: 2
 Available tickets: 20
 Total amount:200
 Available ticket after booking:18
-
